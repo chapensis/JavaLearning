@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="imooc-single-mvc-web:war">
+    <output-path>$PROJECT_DIR$/imooc-single-mvc-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>imooc-single-mvc-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="imooc-single-mvc-web.war">
+      <element id="artifact" artifact-name="imooc-single-mvc-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+com\imooc\order\pojo\Orders.class
+com\imooc\order\pojo\OrdersExample.class
+com\imooc\order\pojo\OrdersExample$GeneratedCriteria.class
+com\imooc\order\pojo\OrdersExample$Criterion.class
+com\imooc\order\service\OrdersService.class
+com\imooc\order\pojo\OrdersExample$Criteria.class

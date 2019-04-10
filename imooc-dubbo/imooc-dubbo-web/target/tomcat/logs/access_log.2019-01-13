@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:10:36:41 +0800] "GET /buy2.action?itemId=2 HTTP/1.1" 200 78 http-bio-8080-exec-2 11309
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:10:36:41 +0800] "GET /buy.action?itemId=2 HTTP/1.1" 200 78 http-bio-8080-exec-1 11309
