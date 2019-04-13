@@ -1,0 +1,9 @@
+com\waylau\spring\cloud\weather\vo\Weather.class
+com\waylau\spring\cloud\weather\controller\WeatherController.class
+com\waylau\spring\cloud\weather\WeatherDataApplication.class
+com\waylau\spring\cloud\weather\vo\Yeaterday.class
+com\waylau\spring\cloud\weather\service\WeatherDataServiceImpl.class
+com\waylau\spring\cloud\weather\vo\WeatherResponse.class
+com\waylau\spring\cloud\weather\service\WeatherDataService.class
+com\waylau\spring\cloud\weather\controller\HelloController.class
+com\waylau\spring\cloud\weather\vo\Forecast.class
