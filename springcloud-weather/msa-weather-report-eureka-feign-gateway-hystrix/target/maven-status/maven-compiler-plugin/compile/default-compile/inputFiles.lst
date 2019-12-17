@@ -1,0 +1,12 @@
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\vo\Weather.java
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\service\DataClientFallback.java
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\vo\City.java
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\vo\Forecast.java
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\service\WeatherReportService.java
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\vo\Yeaterday.java
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\ReportApplication.java
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\controller\HelloController.java
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\vo\WeatherResponse.java
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\service\DataClient.java
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\service\WeatherReportServiceImpl.java
+C:\Users\yangchang\Desktop\SpringCloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\java\com\waylau\spring\cloud\weather\controller\WeatherReportController.java
