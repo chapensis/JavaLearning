@@ -12,5 +12,12 @@ public class StringTest {
         String str4 = new String("abc");
         // 对象不会等于其他对象
         System.out.println(str3 == str4);
+
+        String str5 = "123456";
+        String str6 = "123";
+        String str7 = "456";
+        System.out.println(str5 == ("123" + "456"));
+        System.out.println(str5 == ("123" + str7));
+        System.out.println(str5 == (str6 + str7));
     }
 }

@@ -38,6 +38,6 @@ public class HouseRobber {
             dp[i][1] = dp[i - 1][0] + nums[i - 1];
         }
         // 最后看看最后一家偷和不偷的最大收益之和
-        return Math.max(dp[nums.length][0], dp[nums.length][1]);`
+        return Math.max(dp[nums.length][0], dp[nums.length][1]);
     }
 }
